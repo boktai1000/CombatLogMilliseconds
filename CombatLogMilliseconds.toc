@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: CombatLogMilliseconds
+## Notes: CombatLogMilliseconds
+## Author: magey
+## Version: 1.0
+
+CombatLogMilliseconds.lua
